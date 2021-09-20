@@ -1,4 +1,3 @@
-// Deprecated: maintainers wanted still!
 module github.com/willabides/deprecateme
 
 go 1.17
