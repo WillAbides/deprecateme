@@ -1,4 +1,4 @@
-package goprojecttmpl
+package deprecateme
 
 import (
 	"testing"

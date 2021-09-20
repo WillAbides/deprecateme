@@ -1,4 +1,4 @@
-module github.com/willabides/goproject-tmpl
+module github.com/willabides/deprecateme
 
 go 1.16
 
